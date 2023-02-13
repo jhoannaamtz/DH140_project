@@ -24,6 +24,5 @@ I am most drawn to network and text analysis. The reason being that I like to be
 | --- | --- | --- |
 | Marvel Comic Books and Character|See the increase in diverse marvel characters over time.| https://developer.marvel.com/ |
 | World Values Survey | See how ideologies/values spread throughout society (SNA) | https://www.worldvaluessurvey.org/wvs.jsp |
-| 
-Online Shoppers Purchasing Intention | See which regions are more likey to make the same purchases. (Social influence, SNA) | https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset |
+| Online Shoppers Purchasing Intention | See which regions are more likey to make the same purchases. (Social influence, SNA) | https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset |
 
