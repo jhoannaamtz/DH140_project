@@ -1,28 +1,18 @@
 # DH140_project
 
-Ideas for data to investigate for Digital Humanities project
 
-### Topics:
+## Topic: Gender Gap in The Film Industry Through the Years
 
-#### 1. Ethnic/gender disparity in different fields (academic, entertainment, workforce, political, etc.)
-This interests me because as a woman of color I grew up not seeing characters who looked or had similar backgrounds as me. With time there seems to have been an increase in these characters and their stories but I would like to see what the ratio looks like more in depth. Possible source: *["Using data science to understand the film industry’s gender gap."
-](https://doi.org/10.1057/s41599-020-0436-1)*
+### Research
+For this project, I am seeking to address the manner in which women have been represented in the film industry changed over time (roles, financing, Box office). How have these changes look when comparing films, not in English?
 
-#### 2. Globalization/Transcultural Development
-Possible source: *["Transcultural identity development among third generation minority consumers"](https://doi.org/10.1016/j.jbusres.2021.04.060)*
+### Motivation
+My motivation in doing so relies mainly on the fact as someone who identifies as a woman of color, I have always seen a gender gap in environments in most professional spaces I come across ranging from higher education to the world of entertainment. Though I have seen such spaces become more gender inclusive with time, I wish to see how the film industry specifically has improved. Additionally, how has Hollywood worked to include non-English speaking countries through time?
 
-#### 3.  Social Influence, Consumer Behavior 
-Possible source: *["Understanding online consumers’ purchase intentions: a contribution from social network theory"](https://doi.org/10.1080/0144929X.2018.1456563)*
+### Sources 
+Dataset: https://github.com/taubergm/HollywoodGenderData/blob/master/all_actors_movies_gender_gold.csv
 
-#### Data Visualizations
-I am most drawn to network and text analysis. The reason being that I like to be able to see how something such as a product or idea spreads throughout a netwrok and using text analysis being able to get an idea as to how people are feeling and make predictions off of that. Furthermore, its ability to showcase the relationships and oftentimes its strength across a network of people or entities.
+In this project, I am using the “All_actors_movies_gender_gold” dataset provided by user taubergm on GitHub. Containing hundreds of rows of data from 2000 to 2018, this dataset features several variables such as Film titles, country/language, financials, and cast information such as lead actor or actress and most importantly their gender.
 
 
-#### Datasets
-
-| Name | Description | Dataset Link |
-| --- | --- | --- |
-| Marvel Comic Books and Character|See the increase in diverse marvel characters over time.| https://developer.marvel.com/ |
-| World Values Survey | See how ideologies/values spread throughout society (SNA) | https://www.worldvaluessurvey.org/wvs.jsp |
-| Online Shoppers Purchasing Intention | See which regions are more likey to make the same purchases. (Social influence, SNA) | https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset |
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhoannaamtz/DH140_project/HEAD)
